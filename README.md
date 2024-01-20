@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valbuquerque
 - 👀 I’m interested in devops, infrastructure, Linux, Windows, network, automation and miracles.
 - 🌱 I’m currently learning kubernetes, terraform and python. 
-- 💞️ I’m looking to collaborate on everything I can.
+- 💞️ I’m looking to collaborate with everything I can.
 - 📫 How to reach me: victorfba@gmail.com
 
 <!---
